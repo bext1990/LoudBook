@@ -27,10 +27,12 @@ TO DO:
 *	Book shelf
 		a. Button on main page and menu
 		b. New dialog with files list
-*	Playing in the background
+*	Playing in the background (Screen off)
 *	Touch support (changing pages)
 *	"File not found" error sound
 * 	Editing loud book files (*.lb.xml)
+		a. Change audio file
+		b. ...
 * 	SDK versions: from 2.2 Froyo
 * 	Design
 		a. Landscape/Portrait
@@ -47,6 +49,17 @@ TO DO:
 * 	Spelling text by Google translate
 		a. Additional library
 		b. Language 
+*	Widget
+		a. Buttons:
+			Open main window
+			Next
+			Previous
+			Pause/Play
+			Close (X in the top-right corner)
+		b. Book title
+*	Run in background process 
+		a. Return through notification bar
+		b. Exit button
 		
 PROBLEMS:
 *	Next song after current song ending:
