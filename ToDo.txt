@@ -7,6 +7,7 @@ TO DO:
 +/-	Recent used files 
 	+	a. List of X last used, not repeated files on the main page
 	-	b. X sets in the setting dialog
+* 	LOG: http://habrahabr.ru/blogs/android_development/116376
 * 	Add settings dialog
 		a. Delay (between pages and music)
 		b. Sound volume
